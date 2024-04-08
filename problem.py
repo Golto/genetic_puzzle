@@ -153,13 +153,6 @@ class Piece:
 # ===================================================================
 #                           Config
 # ===================================================================
-def copy(self, other):
-        self.array = []
-        for piece in other.array:
-            self.array.append(piece.clone())
-        return self
-    
-    
 
 
 
