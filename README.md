@@ -1,7 +1,7 @@
 # Informarions
 - Author: Golto
 - Date: 09/04/2024 [dd/mm/yyyy]
-- Contribution: Thanks to Jaden VICAINE and Emma Sarcher for helping me with the constructive dynamic in `Problem.py`
+- Contribution: Thanks to Jaden VICAINE and Emma SARCHER for helping me with the constructive dynamic in `Problem.py`
 
 # Genetic Algorithm for Puzzle Solving
 ### Introduction
